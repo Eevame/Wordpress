@@ -1,0 +1,19 @@
+/*
+Theme Name: Kraft
+Theme URI: https://github.com/Eevame/wordpress
+Author: Eeva Meltio
+Author URI: https://krafthelsinki.fi/
+Description: Kraft Helsinki parent theme
+Requires at least: 6.0
+Tested up to: 6.4.3
+Requires PHP: 5.7
+Version: 1.0.2
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: kraft
+Tags: portfolio, two-columns, wide-blocks, block-patterns, block-styles, custom-colors, custom-logo, custom-menu, featured-images, full-site-editing, sticky-post, style-variations, threaded-comments, translation-ready, one-column, editor-style, rtl-language-support, accessibility-ready, blog, news
+*/
+
+body {
+    max-width:1280px;
+}
